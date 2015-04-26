@@ -1,0 +1,13 @@
+{
+    "author" : "Karan Krishan",
+    "name" : "cencorify",
+    "version" : "0.0.1",
+    "description" : "cencor words",
+    "main" : "cencortext",
+    "engines" : { "node" : "*"},
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/karankrishan/git-node-space"
+    },
+    "keywords" : ["censor","words"]
+}
